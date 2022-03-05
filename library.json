@@ -1,0 +1,22 @@
+{
+  "name": "BotaoI2C",
+  "description": "",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roneylf/BotaoI2C.git"
+  },
+  "version": "0.0.1",
+  "authors": {
+    "name": "roneylf"
+  },
+  "exclude": [
+    ".github",
+    "extras"
+  ],
+  "frameworks": "*",
+  "platforms": "*",
+  "build": {
+    "libArchive": false
+  }
+}
